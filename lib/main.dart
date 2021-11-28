@@ -51,10 +51,10 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
       //3
       body: SafeArea(
-          // TODO: Replace
-          child: Container(
+        // TODO: Replace child: Container
+        // 4
         child: Container(),
-      )),
+      ),
     );
   }
 
